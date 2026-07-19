@@ -12,9 +12,13 @@
     <url type="bugtracker">https://github.com/cosmic-utils/chronos/issues</url>
     <name>Chronos</name>
     <summary>Chronos is a simple and intuitive Pomodoro timer for Linux</summary>
+    <summary xml:lang="cs">Chronos je jednoduchý a intuitivní Pomodoro časovač pro Linux</summary>
     <description>
         <p>Chronos is a simple and intuitive Pomodoro timer for Linux that helps users manage their time efficiently and
             effectively, making it easier to focus on tasks and take breaks at regular intervals.
+        </p>
+        <p xml:lang="cs">Chronos je jednoduchý a intuitivní Pomodoro časovač pro Linux, který pomáhá uživatelům efektivně
+            řídit čas, lépe se soustředit na práci a dodržovat přestávky v pravidelných intervalech.
         </p>
     </description>
     <launchable type="desktop-id">com.francescogaglione.chronos.desktop</launchable>
@@ -26,6 +30,7 @@
         <screenshot type="default">
             <image>https://raw.githubusercontent.com/cosmic-utils/chronos/main/screenshots/pomodoro-page.png</image>
             <caption>Light mode</caption>
+            <caption xml:lang="cs">Světlý režim</caption>
         </screenshot>
     </screenshots>
     <categories>
